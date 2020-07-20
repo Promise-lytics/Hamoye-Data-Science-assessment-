@@ -12,4 +12,4 @@ The data consists of the following columns
 'fuel_cost_per_unit_burned': the fuel cost per unit burned
 'Fuel_cost_per_unit_delivered': the cost of fuel delivered per unit
 'fuel_cost_per_mmbtu': the cost of fuel per mmbtu
-The i performed an EDA(Exploratory Data Analysis) on the data
+Then i performed an EDA(Exploratory Data Analysis) on the data
